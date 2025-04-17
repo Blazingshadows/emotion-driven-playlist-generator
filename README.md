@@ -32,8 +32,8 @@ An intelligent music recommendation system that detects user emotions in real-ti
 
 1. **Clone the Repository**
    ```bash
-  git clone https://github.com/your-username/emotion-playlist-generator.git
-  cd emotion-playlist-generator
-  pip install -r requirements.txt
-  streamlit run app.py
+     git clone https://github.com/your-username/emotion-playlist-generator.git
+     cd emotion-playlist-generator
+     pip install -r requirements.txt
+     streamlit run app.py
 
